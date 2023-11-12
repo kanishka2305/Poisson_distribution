@@ -1,4 +1,4 @@
-#  Expm 2.Fitting Poisson  distribution
+# Exp 2.Fitting Poisson  distribution
 # Date:
 # Aim : 
 
